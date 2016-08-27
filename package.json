@@ -1,0 +1,78 @@
+{
+  "_args": [
+    [
+      "snakeandladder",
+      "/Users/vijay/Documents/Myfiles/Learning/nodeModules/snakedandladder"
+    ]
+  ],
+  "_from": "snakeandladder@latest",
+  "_id": "snakeandladder@1.0.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/snakeandladder",
+  "_nodeVersion": "0.12.7",
+  "_npmUser": {
+    "email": "vjkrishna689@gmail.com",
+    "name": "vijayk93"
+  },
+  "_npmVersion": "2.14.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "snakeandladder",
+    "raw": "snakeandladder",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/snakeandladder/-/snakeandladder-1.0.0.tgz",
+  "_shasum": "8be7618b14678a3e3a7a773ba2abb403b4e81df5",
+  "_shrinkwrap": null,
+  "_spec": "snakeandladder",
+  "_where": "/Users/vijay/Documents/Myfiles/Learning/nodeModules/snakedandladder",
+  "author": {
+    "name": "Vijay Krish"
+  },
+  "bugs": {
+    "url": "https://github.com/VijayKrish93/Snake-Ladder/issues"
+  },
+  "dependencies": {},
+  "description": "A simple  6x5 board snake and ladder game using js and jquery",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "8be7618b14678a3e3a7a773ba2abb403b4e81df5",
+    "tarball": "http://registry.npmjs.org/snakeandladder/-/snakeandladder-1.0.0.tgz"
+  },
+  "gitHead": "41dd4f140957e33824dfbd195e0f928f317f6d07",
+  "homepage": "https://github.com/VijayKrish93/Snake-Ladder#readme",
+  "keywords": [
+    "snake ladder games",
+    "snake game",
+    "snake and ladder",
+    "ecosystem:jquery",
+    "jquery-plugin"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "vijayk93",
+      "email": "vjkrishna689@gmail.com"
+    }
+  ],
+  "name": "snakeandladder",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VijayKrish93/Snake-Ladder.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.2"
+}
