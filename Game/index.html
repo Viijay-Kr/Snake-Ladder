@@ -1,12 +1,23 @@
 <html>
 <head>
 	<title>Snake and Ladder</title>
-<script type="text/javascript" src="../libs/jquery.min.js"></script>
+<script type="text/javascript" src="libs/jquery.min.js"></script>
+<script type="text/javascript" src="socket.io/socket.io.js"></script>
+<style type="text/css">
+	.pawn{
+		color:#fff;
+		font-size: 11px;
+		background-color: #000;
+		text-align: center;
+	}
+</style>
 </head>
 <body>
 <div id="snake"></div>
 <script type="text/javascript" src="snkld.js"></script>
 <script type="text/javascript">
+var socket=io();
+socket.emit("establish",{'username':'hola123','connection':false})
 $("#snake").snakeladder();
 </script>
 </body>
